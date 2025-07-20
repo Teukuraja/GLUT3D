@@ -11,8 +11,11 @@ Setiap objek dapat dianimasikan dan dirotasi secara otomatis.
 ## 📦 Struktur Folder
 GLUT3D/
 ├── Script_titik.c # Script utama (ubah-ubah isi dengan contoh objek)
+
 ├── FreeGLUT-MinGW/ # Folder library FreeGLUT (include, lib, bin)
+
 ├── README.md # File ini
+
 └── ... (file pendukung lain)\
 
 

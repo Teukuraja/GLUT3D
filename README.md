@@ -5,7 +5,6 @@ Setiap objek dapat dianimasikan dan dirotasi secara otomatis.
 
 ## ✨ Fitur
 - Visualisasi **Kubus 3D**, **Prisma Segitiga**, dan **Bola (Sphere)**
-- Alternatif: Torus (Donat 3D), Kerucut Spiral, Bintang 3D
 - Semua objek **berputar otomatis** dengan animasi smooth
 - Contoh penulisan kode rapi & mudah dikembangkan
 

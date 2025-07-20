@@ -30,7 +30,6 @@ g++ Script_titik.c -o titik.exe -IFreeGLUT-MinGW\freeglut\include -LFreeGLUT-Min
 ## 🧑‍💻 Credits
 - OpenGL & FreeGLUT
 - Contoh kode & template oleh [Teukuraja](https://github.com/Teukuraja)  
-(atau isi dengan nama kamu sendiri!)
 
 ## 📚 Lisensi
 MIT License (bebas digunakan & dikembangkan)
